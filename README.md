@@ -12,7 +12,7 @@ Users can search for any term and images related to that term will be displayed.
 
 # Live Link
 
-Link: 
+Link: https://image-gallery-o1zhvgwk0-tarush33.vercel.app
 
 ## How It Looks
 
