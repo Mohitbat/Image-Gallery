@@ -17,7 +17,7 @@ For example, if the user wants to search for images of lions then they can searc
 
 Link: https://image-gallery-o1zhvgwk0-tarush33.vercel.app
 
-## Screenshot of the Interface
+# Screenshot of the Interface
 
 ![Screenshot_20221217_022623](https://user-images.githubusercontent.com/91522963/208187604-cced8acc-7e07-40f0-9da6-b0f956ecd0cd.png)
 
